@@ -1,6 +1,3 @@
-# puc_ciencia_de_dados_tcc
-
-
 # DESCRIÇÃO DO NOTEBOOK:
 
 Este notebook foi construído para a realização do Trabalho de Conclusão de Curso da Especialização em Ciência de Dados da PUC-MINAS. 
